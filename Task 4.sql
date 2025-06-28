@@ -1,8 +1,6 @@
 create database task4;
 use task4;
-create database db;
-use db;
-drop TABLE employee_salary;
+
 CREATE TABLE employee_salary (
     Emp_ID INT,
     Emp_Name VARCHAR(100),
